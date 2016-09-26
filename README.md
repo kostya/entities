@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   entities:
-    github: kostya/entites
+    github: kostya/entities
 ```
 
 And run `crystal deps`
