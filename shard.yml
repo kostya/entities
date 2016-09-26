@@ -4,4 +4,7 @@ version: 0.1.0
 authors:
   - Konstantin Makarchev <kostya27@gmail.com>
 
-license: MIT
+scripts:
+  postinstall: cd ext && make
+
+icense: MIT
