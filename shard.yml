@@ -5,6 +5,6 @@ authors:
   - Konstantin Makarchev <kostya27@gmail.com>
 
 scripts:
-  postinstall: cd ext && make
+  postinstall: cd src/ext && make
 
-icense: MIT
+License: MIT
